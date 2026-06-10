@@ -25,6 +25,8 @@ from src.gy94_model import GENETIC_CODE
 from qiskit.quantum_info import Statevector
 from qiskit import QuantumCircuit
 
+from src.constants import AAE_N_LAYERS, AAE_N_TRIALS, AAE_RANDOM_SEED
+
 RESULTS_DIR = os.path.join(_PROJECT_DIR, 'results')
 os.makedirs(RESULTS_DIR, exist_ok=True)
 
@@ -33,8 +35,8 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(
         description="Train AAE on GAPDH codon distribution and dump trained params to JSON.")
-    parser.add_argument('--n-layers', type=int, default=6,
-                        help='Brickwall layers (default: 6).')
+    parser.add_argument('--n-layers', type=int, default=8,
+                        help='Brickwall layers (default: 8).')
     parser.add_argument('--n-trials', type=int, default=6,
                         help='Random L-BFGS-B restarts (default: 6).')
     parser.add_argument('--maxiter', type=int, default=5000,

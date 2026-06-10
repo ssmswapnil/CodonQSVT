@@ -47,6 +47,8 @@ STAGES = [
         "tsweep_qsvt_vs_qsp_hellinger.py", []),
     ("ffe",     "Far-from-equilibrium trajectory (delta-start dynamics)",
         "far_from_equilibrium.py", []),
+    ("table9",  "Four-threshold QSVT fidelity sweep (Table 9)",
+        "threshold_sweep.py", []),
     ("plots",   "Plot Hellinger + norm-decay figures from JSON",
         "plot_hellinger_and_norm.py", []),
     ("figures", "Regenerate remaining paper figures",
@@ -55,7 +57,7 @@ STAGES = [
 
 # Group aliases for --only / --skip convenience.
 GROUPS = {
-    "data":    {"aae", "pauli", "sweep", "ffe"},
+    "data":    {"aae", "pauli", "sweep", "ffe", "table9"},
     "figures": {"plots", "figures"},
     "all":     {s[0] for s in STAGES},
 }
