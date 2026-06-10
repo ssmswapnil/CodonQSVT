@@ -160,9 +160,9 @@ If you use this code or build on the method, please cite the paper:
   title   = {Quantum Simulation of Codon Substitution Dynamics via Imaginary-Time QSVT},
   author  = {Iyer, Tejas Ganesh and Mishra, Sai Swapnil Kumar and Shah, Farhan Ali},
   journal = {(to appear / preprint)},
-  year    = {2025},
+  year    = {2026},
   note    = {arXiv:XXXX.XXXXX},
-  url     = {https://github.com/USER/CodonQSVT}
+  url     = {https://github.com/TejasGIyer/CodonQSVT}
 }
 ```
 
