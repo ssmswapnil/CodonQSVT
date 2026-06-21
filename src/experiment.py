@@ -62,10 +62,6 @@ def get_circuit_metrics(transpiled_circuit):
     }
 
 
-# =========================================================================
-# QUANTUM PROBABILITY EXTRACTION
-# =========================================================================
-
 def counts_to_codon_probs(counts, sense_codons, n_qubits=6, shots=8192):
     """
     Convert raw measurement counts -> codon probability distribution.
