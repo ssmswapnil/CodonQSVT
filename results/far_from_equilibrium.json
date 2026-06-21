@@ -9,7 +9,7 @@
     "epsilon": 0.001,
     "n_qubits": 6,
     "n_pauli_terms": 7,
-    "alpha": 2.6399791245329673,
+    "alpha": 2.639979124532967,
     "be_ancilla": 3,
     "f0_init_vs_eq": 0.027389551783238875,
     "zero_eigenvalues": 1,
@@ -25,117 +25,117 @@
       "tv_qsvt": 0.0,
       "qsvt_norm2": 1.0,
       "qsvt_n_phases": 0,
-      "eval_time_s": 0.0
+      "eval_time_s": 0.0009975433349609375
     },
     {
       "t": 0.05,
       "f_classical_vs_eq": 0.04017575164879983,
       "f_classical_vs_pi0": 0.9987222611437904,
-      "f_hellinger_qsvt": 0.9971091587287679,
-      "f_bhattacharyya_qsvt": 0.9942266744207913,
-      "tv_qsvt": 0.008954638008324741,
-      "qsvt_norm2": 0.9458696597374177,
+      "f_hellinger_qsvt": 0.9971091587525659,
+      "f_bhattacharyya_qsvt": 0.9942266744682499,
+      "tv_qsvt": 0.008954638008324408,
+      "qsvt_norm2": 0.9458696597373937,
       "qsvt_n_phases": 25,
-      "eval_time_s": 1.8202359676361084
+      "eval_time_s": 2.02812123298645
     },
     {
       "t": 0.1,
       "f_classical_vs_eq": 0.04617482371860204,
       "f_classical_vs_pi0": 0.9973896162631133,
-      "f_hellinger_qsvt": 0.9943542120297938,
-      "f_bhattacharyya_qsvt": 0.9887402989813924,
-      "tv_qsvt": 0.017407882483947416,
-      "qsvt_norm2": 0.8971945657592719,
+      "f_hellinger_qsvt": 0.9943542120539575,
+      "f_bhattacharyya_qsvt": 0.9887402990294466,
+      "tv_qsvt": 0.017407882483947586,
+      "qsvt_norm2": 0.8971945657592747,
       "qsvt_n_phases": 25,
-      "eval_time_s": 1.8808362483978271
+      "eval_time_s": 2.0491485595703125
     },
     {
       "t": 0.25,
       "f_classical_vs_eq": 0.0598080666493469,
       "f_classical_vs_pi0": 0.993036191914444,
-      "f_hellinger_qsvt": 0.9868261192385677,
-      "f_bhattacharyya_qsvt": 0.9738257896114515,
-      "tv_qsvt": 0.03994147385136468,
-      "qsvt_norm2": 0.7776513765952787,
+      "f_hellinger_qsvt": 0.986826119207424,
+      "f_bhattacharyya_qsvt": 0.9738257895499848,
+      "tv_qsvt": 0.0399414738513637,
+      "qsvt_norm2": 0.7776513765952824,
       "qsvt_n_phases": 25,
-      "eval_time_s": 1.698460340499878
+      "eval_time_s": 2.2083654403686523
     },
     {
       "t": 0.5,
       "f_classical_vs_eq": 0.07900522943157862,
       "f_classical_vs_pi0": 0.9844262857020233,
-      "f_hellinger_qsvt": 0.9763226572849748,
-      "f_bhattacharyya_qsvt": 0.9532059311279943,
-      "tv_qsvt": 0.06887576319173003,
-      "qsvt_norm2": 0.6384382958142725,
+      "f_hellinger_qsvt": 0.9763226574429021,
+      "f_bhattacharyya_qsvt": 0.9532059314363704,
+      "tv_qsvt": 0.0688757631917297,
+      "qsvt_norm2": 0.6384382958142902,
       "qsvt_n_phases": 27,
-      "eval_time_s": 1.8497278690338135
+      "eval_time_s": 2.294459581375122
     },
     {
       "t": 0.75,
       "f_classical_vs_eq": 0.09764645574798991,
       "f_classical_vs_pi0": 0.9737881976038569,
-      "f_hellinger_qsvt": 0.9675401856628048,
-      "f_bhattacharyya_qsvt": 0.9361340108724147,
-      "tv_qsvt": 0.08849598419236154,
-      "qsvt_norm2": 0.5431146793190916,
+      "f_hellinger_qsvt": 0.9675401851509303,
+      "f_bhattacharyya_qsvt": 0.9361340098818965,
+      "tv_qsvt": 0.08849598419236207,
+      "qsvt_norm2": 0.5431146793190741,
       "qsvt_n_phases": 29,
-      "eval_time_s": 1.8985154628753662
+      "eval_time_s": 2.392091751098633
     },
     {
       "t": 1.0,
       "f_classical_vs_eq": 0.1169049405843694,
       "f_classical_vs_pi0": 0.9607014468637307,
-      "f_hellinger_qsvt": 0.9595461098070366,
-      "f_bhattacharyya_qsvt": 0.9207287368458177,
-      "tv_qsvt": 0.10008825925093875,
-      "qsvt_norm2": 0.473867704551255,
+      "f_hellinger_qsvt": 0.959546110059573,
+      "f_bhattacharyya_qsvt": 0.9207287373304578,
+      "tv_qsvt": 0.10008825925094436,
+      "qsvt_norm2": 0.4738677045512756,
       "qsvt_n_phases": 31,
-      "eval_time_s": 2.1978399753570557
+      "eval_time_s": 2.6227307319641113
     },
     {
       "t": 1.5,
       "f_classical_vs_eq": 0.15863323675062013,
       "f_classical_vs_pi0": 0.9254930105888749,
-      "f_hellinger_qsvt": 0.9416811685324207,
-      "f_bhattacharyya_qsvt": 0.8867634231685853,
-      "tv_qsvt": 0.10569628132147765,
-      "qsvt_norm2": 0.3686132596004781,
+      "f_hellinger_qsvt": 0.9416811675297964,
+      "f_bhattacharyya_qsvt": 0.8867634212802804,
+      "tv_qsvt": 0.10569628132146432,
+      "qsvt_norm2": 0.36861325960043956,
       "qsvt_n_phases": 35,
-      "eval_time_s": 2.3734965324401855
+      "eval_time_s": 2.990384817123413
     },
     {
       "t": 2.0,
-      "f_classical_vs_eq": 0.2044703950265162,
-      "f_classical_vs_pi0": 0.8761962953944533,
-      "f_hellinger_qsvt": 0.9162095326806026,
-      "f_bhattacharyya_qsvt": 0.8394399077748081,
-      "tv_qsvt": 0.14907817012763872,
-      "qsvt_norm2": 0.3037791744775317,
+      "f_classical_vs_eq": 0.20447039502651632,
+      "f_classical_vs_pi0": 0.8761962953944532,
+      "f_hellinger_qsvt": 0.9162095348214351,
+      "f_bhattacharyya_qsvt": 0.8394399116977105,
+      "tv_qsvt": 0.14907817012764615,
+      "qsvt_norm2": 0.30377917447862046,
       "qsvt_n_phases": 39,
-      "eval_time_s": 2.6055142879486084
+      "eval_time_s": 3.4070372581481934
     },
     {
       "t": 3.0,
       "f_classical_vs_eq": 0.2973007092205413,
       "f_classical_vs_pi0": 0.7412236716938627,
-      "f_hellinger_qsvt": 0.8331799758059459,
-      "f_bhattacharyya_qsvt": 0.6941888720839965,
-      "tv_qsvt": 0.3057901726246297,
-      "qsvt_norm2": 0.3307549175816873,
+      "f_hellinger_qsvt": 0.8331799618038872,
+      "f_bhattacharyya_qsvt": 0.694188848751527,
+      "tv_qsvt": 0.30579017262449487,
+      "qsvt_norm2": 0.3307549175886495,
       "qsvt_n_phases": 47,
-      "eval_time_s": 3.2143948078155518
+      "eval_time_s": 4.395266056060791
     },
     {
       "t": 5.0,
       "f_classical_vs_eq": 0.4150555429511449,
       "f_classical_vs_pi0": 0.5165080023385547,
-      "f_hellinger_qsvt": 0.6798859343247835,
-      "f_bhattacharyya_qsvt": 0.46224488369268385,
-      "tv_qsvt": 0.5327216244146326,
-      "qsvt_norm2": 1052.4255882703887,
+      "f_hellinger_qsvt": 0.6798858789300719,
+      "f_bhattacharyya_qsvt": 0.4622448083685167,
+      "tv_qsvt": 0.5327216244144299,
+      "qsvt_norm2": 1052.4255881249176,
       "qsvt_n_phases": 63,
-      "eval_time_s": 4.322397947311401
+      "eval_time_s": 5.253715991973877
     }
   ]
 }
